@@ -717,7 +717,9 @@ font-weight: bold;
     width: 300px;
     height: 300px;
   }
-
+.hero-text{
+  margin-left: -10px;
+}
   .hero-image {
     min-width: inherit;
   }
