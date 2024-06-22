@@ -146,6 +146,12 @@ strong {
   right: 30px;
   top: 20px;
 }
+ 
+@media  (min-width: 900px) {
+  .con {display: none;}
+}
+
+
 .bar1,
 .bar2,
 .bar3 {
@@ -728,3 +734,4 @@ font-weight: bold;
     min-width: inherit;
   }
 }
+
