@@ -1,4 +1,4 @@
-:root {
+f:root {
   --white-color: #ffffff;
   --primary-color: #535da1;
   --secondary-color: #14b789;
@@ -402,8 +402,8 @@ img:hover {
   border-right: 1px solid var(--border-color);
   color: var(--secondary-color);
   font-weight: var(--font-weight-bold);
-  min-width: 100px;
-  padding: 13px 20px;
+  min-width: 120px;
+  padding: 13px 25px;
   display: inline-block;
 }
 
